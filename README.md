@@ -1,3 +1,7 @@
+GOTO https://github.com/iooner/2k18-blog
+
+
+
 # iooner.me
 Blog iooner.me
 
